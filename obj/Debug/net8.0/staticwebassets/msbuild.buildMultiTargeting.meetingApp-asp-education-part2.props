@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\meetingApp-asp-education-part2.props" />
+</Project>
