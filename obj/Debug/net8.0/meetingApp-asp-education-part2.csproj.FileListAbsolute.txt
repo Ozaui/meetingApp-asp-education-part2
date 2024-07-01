@@ -28,3 +28,4 @@ C:\Users\ASUS\Desktop\.NET\meetingApp-asp-education-part2\obj\Debug\net8.0\refin
 C:\Users\ASUS\Desktop\.NET\meetingApp-asp-education-part2\obj\Debug\net8.0\meetingApp-asp-education-part2.pdb
 C:\Users\ASUS\Desktop\.NET\meetingApp-asp-education-part2\obj\Debug\net8.0\meetingApp-asp-education-part2.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\.NET\meetingApp-asp-education-part2\obj\Debug\net8.0\ref\meetingApp-asp-education-part2.dll
+C:\Users\ASUS\Desktop\.NET\meetingApp-asp-education-part2\obj\Debug\net8.0\meetingApp-asp-education-part2.sourcelink.json
